@@ -1,5 +1,10 @@
 from karel.stanfordkarel import *
 
+"""
+When you finish writing this file, Karel should have repaired 
+each of the columns in the temple
+"""
+
 def main():
     for i in range(2):
         down_to_up()

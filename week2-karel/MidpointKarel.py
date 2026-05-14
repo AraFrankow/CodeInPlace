@@ -1,5 +1,10 @@
 from karel.stanfordkarel import *
 
+"""
+When you finish writing this file, Karel should be able to find
+the midpoint
+"""
+
 def main():
     fill_row()
     reset()

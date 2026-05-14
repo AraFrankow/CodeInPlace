@@ -1,5 +1,9 @@
 from karel.stanfordkarel import *
 
+"""
+Karel should fill the whole world with beepers.
+"""
+
 def main():
     while front_is_clear():
         while front_is_clear():

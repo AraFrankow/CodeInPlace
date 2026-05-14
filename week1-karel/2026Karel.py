@@ -1,5 +1,11 @@
 from karel.stanfordkarel import *
 
+"""
+When you finish writing this file, Karel should be able to 
+place 20 beepers, then 26 beepers, and end facing East to 
+the right of the 26 beepers.
+"""
+
 def main():
     for i in range(20):
         repet()

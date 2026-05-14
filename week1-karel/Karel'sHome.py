@@ -1,5 +1,10 @@
 from karel.stanfordkarel import *
 
+# The warmup program defines a "main"
+# function which should make Karel 
+# move to the beeper, pick it up, and
+# return home.
+
 def main():
     move_to_the_wall()
     turn_and_move()

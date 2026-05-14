@@ -1,5 +1,9 @@
 from karel.stanfordkarel import *
 
+# The warmup program defines a "main"
+# function which should make Karel
+# pick up all the beepers in the world.
+
 def main():
     while front_is_clear():
         move()
