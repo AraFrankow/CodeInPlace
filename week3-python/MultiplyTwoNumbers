@@ -1,0 +1,20 @@
+"""
+Program: multiply two numbers
+--------------------
+This program asks the user for two
+integers and prints the value of the first number
+multiplied with the second
+"""
+
+def main():
+    print("This program multiplies two numbers.")
+    num1  =  input("Enter first number:")
+    int(num1)
+    num2  =  input("Enter second number:")
+    int(num2)
+    value = int(num1) * int(num2)
+    print(value)
+
+
+if __name__ == '__main__':
+    main()
