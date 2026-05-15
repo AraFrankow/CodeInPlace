@@ -72,8 +72,29 @@ This is where it clicks: the logic from Karel directly applies to solving real p
 
 ---
 
-### Week 4: [Coming Soon]
+### Week 4: Functions, Parameters & Game Development 🎮 ✅
 **May 2026**
+
+Dove deeper into functions with parameters, return values, and building complete programs.
+
+**Topics covered:**
+- Functions with multiple parameters and return values
+- Game state management across function calls
+- Random number generation with `random` module
+- Control flow with `while` loops and conditionals
+- Boolean logic and comparisons
+- Input validation and error handling
+
+**Programs created:**
+- `liftoff.py` - Countdown loop from 10 to 1
+- `random_numbers.py` - Generate and print 10 random numbers (1-100)
+- `doubler.py` - Double numbers until reaching 100
+- `joke_bot.py` - Simple interactive chatbot
+- `high_low_game.py` - Guessing game comparing your number vs computer's
+- `math_game.py` - **Main project:** Progressive difficulty math challenge game
+
+**What clicked:**  
+Functions transform code from linear scripts into modular, reusable components. Return values allow functions to communicate state changes, enabling complex multi-level game mechanics.
 
 ---
 
@@ -106,7 +127,7 @@ code-in-place-2026/
 ├── week1-karel/          # Karel programs (control flow basics)
 ├── week2-karel/          # Karel programs (conditionals)
 ├── week3-python/         # First Python programs
-├── week4/                # [Coming soon]
+├── week4-python/         # [Coming soon]
 ├── week5/                # [Coming soon]
 └── final-project/        # [Coming soon]
 ```
