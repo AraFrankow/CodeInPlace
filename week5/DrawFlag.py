@@ -1,5 +1,9 @@
 from graphics import Canvas
-
+"""
+Students in Code in Place are from 150 different countries! Wow. 
+Let's celebrate our international class by drawing flags. 
+To start out, one of the most straightforward flags to draw using Python graphics is the flag of Indonesia
+"""
 CANVAS_WIDTH = 450
 CANVAS_HEIGHT = 300
 

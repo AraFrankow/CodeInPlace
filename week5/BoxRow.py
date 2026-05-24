@@ -1,5 +1,10 @@
 from graphics import Canvas
-
+"""
+Let's practice making graphics with lots of repeated elements. 
+This will help us get familiar with working with multiple shapes and pixel calculations!
+Make a line of boxes as shown below, such that the boxes fill the bottom of the canvas. 
+Each box should have a width and height of BOX_SIZE, making a total of 5 boxes perfectly in line with one anothe
+"""
 CANVAS_WIDTH = 400
 CANVAS_HEIGHT = 200
 N_BOXES = 5

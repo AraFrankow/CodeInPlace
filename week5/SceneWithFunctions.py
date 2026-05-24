@@ -1,6 +1,10 @@
 from graphics import Canvas
 import math
-    
+"""
+In this assignment, you will draw a natural scene while practicing how to break a program into functions with parameters. 
+You are also being given an AI code-completion tool for this assignment. 
+The tool can suggest code, but you are responsible for reading the generated code carefully and deciding whether it is correct.
+"""
 CANVAS_WIDTH = 400
 CANVAS_HEIGHT = 300
 
