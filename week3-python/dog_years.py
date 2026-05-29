@@ -1,4 +1,6 @@
-# Each year for a human is like 7.18 years for a dog
+"""
+Write a program which asks a user to input an age in human years, and converts it to the equivalent age in dog years.
+"""
 DOG_YEARS_MULTIPLIER = 7.18  
 
 def main():
