@@ -194,8 +194,18 @@ code-in-place-2026/
 ├── week4-functions/      # Functions, parameters, games (Nimm, High-Low, Math Game)
 ├── week5-graphics/       # Graphics library (flags, pyramid, quilt, scene)
 ├── week6-data/           # Lists and dictionaries
-└── final-project/        # Final project (coming soon)
+└── final-project/        # [Echoes of Azeroth](https://github.com/AraFrankow/EchoesOfAzeroth-CIP)
 ```
+
+---
+
+## 🎯 Final Project
+
+### [⚔ Echoes of Azeroth](https://github.com/AraFrankow/EchoesOfAzeroth-CIP)
+Turn-based RPG inspired by World of Warcraft, built entirely in Python.  
+Choose your class — Warrior, Mage, or Rogue — and fight through a Murloc, an Orc Warrior, and a Dragon.
+
+**Stanford Showcase:** (https://codeinplace.stanford.edu/cip6/share/chY0oneYtrSz7eHn5xcE)
 
 ---
 
