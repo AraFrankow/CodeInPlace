@@ -211,7 +211,9 @@ Choose your class — Warrior, Mage, or Rogue — and fight through a Murloc, an
 
 ## 🏆 Certificate
 
-Will be added upon successful completion of the program (June 2026).
+Successfully completed all requirements — June 2026.
+
+[View Certificate](https://codeinplace.stanford.edu/cip6/certificate/iu2qeb)
 
 ---
 
